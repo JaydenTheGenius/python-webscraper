@@ -1,1 +1,1 @@
-contains some python files for a webscraper side project i worked on during my summer vacationer at Deloitte. Made using python with the BeautifulSoup/feedparser libraries. SQL was also used, however those are restricted
+Web-scraper made at summer intern at Deloitte.
